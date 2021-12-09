@@ -1,0 +1,1 @@
+# calcul de la norme de vecteur
